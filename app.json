@@ -1,0 +1,11 @@
+{
+  "name": "driverconnect",
+  "displayName": "driverconnect",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "23388942-11dc-4b28-9457-96c34be33f5a"
+      }
+    }
+  }
+}
